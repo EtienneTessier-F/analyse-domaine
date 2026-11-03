@@ -43,8 +43,8 @@ Je me sens personnellement a l'aise avec les deux, mais j'aime beaucoup apprendr
 - Types d'entreprises : Les game publishers
 - Exemple d'entreprise : Mojang
 
-![Mojang](<img width="175" height="148" alt="image" src="https://github.com/user-attachments/assets/706914a9-b4d4-4b3b-87ec-d6dd7067ae65" />
-)
+![Mojang]([<img width="175" height="148" alt="image" src="https://github.com/user-attachments/assets/706914a9-b4d4-4b3b-87ec-d6dd7067ae65" />](https://en.wikipedia.org/wiki/File:Mojang_Studios_Logo_(2020,_slim).svg)
+
 
 (source de l'image : Wikipédia)
 
