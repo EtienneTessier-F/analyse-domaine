@@ -16,18 +16,12 @@ Je me sens personnellement a l'aise avec les deux, mais j'aime beaucoup apprendr
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
 |Graphisme | Mon intérêt pour le graphisme est modéré. | C'est quelque chose d'utile dans ma vie professionnelle et académique, mais je me vois mal effectuer un projet de passion en graphisme. |
-|Vidéo et animation 2D |
-Mon intéret pour La vidéo et animation 2D est modéré. | Ce n'est pas un domaine auquel j'ai vraiment touché pour l'instant, mais il m'intéresse |
-|3D|
-Mon intéret pour la 3D est modéré. | Ce n'est pas un domaine auquel j'ai vraiment touché pour l'instant |
-|Web|
-Mon intéret pour le web est bas. | J'ai déja fait des cours de web et je m'ennuie donc un peu en web 1 cette session ci.|
-|Jeux vidéo |
-Mon intérêt pour le Jeux vidéo est élevé. | J'aime énormément apprendre comment ils fonctionnent. |
-|Développement logiciel |
-Mon intérêt pour le développement logiciel est élevé. | Je trouve cela utile et intéressant a faire. |
-|Installations et expériences immersives|
-Mon intérêt pour les installations et expériences immersives est élevé. | Je n'en ai pas encore fait, mais sa me semble intéressant ! |
+|Vidéo et animation 2D | Mon intéret pour La vidéo et animation 2D est modéré. | Ce n'est pas un domaine auquel j'ai vraiment touché pour l'instant, mais il m'intéresse |
+|3D| Mon intéret pour la 3D est modéré. | Ce n'est pas un domaine auquel j'ai vraiment touché pour l'instant |
+|Web| Mon intéret pour le web est bas. | J'ai déja fait des cours de web et je m'ennuie donc un peu en web 1 cette session ci.|
+|Jeux vidéo | Mon intérêt pour le Jeux vidéo est élevé. | J'aime énormément apprendre comment ils fonctionnent. |
+|Développement logiciel | Mon intérêt pour le développement logiciel est élevé. | Je trouve cela utile et intéressant a faire. |
+|Installations et expériences immersives| Mon intérêt pour les installations et expériences immersives est élevé. | Je n'en ai pas encore fait, mais sa me semble intéressant ! |
 
 
 ### Domaine 1 : Développement logiciel
