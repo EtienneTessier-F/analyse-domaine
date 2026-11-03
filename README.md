@@ -15,8 +15,7 @@ Je me sens personnellement a l'aise avec les deux, mais j'aime beaucoup apprendr
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-|Graphisme |
-Mon intérêt pour le graphisme est modéré. | C'est quelque chose d'utile dans ma vie professionnelle et académique, mais je me vois mal effectuer un projet de passion en graphisme. |
+|Graphisme | Mon intérêt pour le graphisme est modéré. | C'est quelque chose d'utile dans ma vie professionnelle et académique, mais je me vois mal effectuer un projet de passion en graphisme. |
 |Vidéo et animation 2D |
 Mon intéret pour La vidéo et animation 2D est modéré. | Ce n'est pas un domaine auquel j'ai vraiment touché pour l'instant, mais il m'intéresse |
 |3D|
