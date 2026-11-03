@@ -62,4 +62,4 @@ Je me sens personnellement a l'aise avec les deux, mais j'aime beaucoup apprendr
 
 ## Ma capsule
 
-![Mon interface OBS](<img width="1919" height="1079" alt="Capture d’écran 2026-11-03 120204" src="https://github.com/user-attachments/assets/75f355ac-836e-4915-9e35-72835c705fba" />)
+![Mon interface OBS]<img width="1919" height="1079" alt="Capture d’écran 2026-11-03 120204" src="https://github.com/user-attachments/assets/75f355ac-836e-4915-9e35-72835c705fba" />
